@@ -1,0 +1,11 @@
+repackage dependencies
+1. meteor add react-meteor-data
+2. npm install --save react react-dom react-addons-pure-render-mixin
+3. add twbs:bootstrap@3.3.6
+4. meteor add accounts-ui accounts-password
+5. meteor remove insecure
+6. meteor remove autopublish
+7. npm install --save react-router
+8. npm install --save react-codemirror
+9. meteor add sgslo:cmstyle
+10. npm install --save markdown
