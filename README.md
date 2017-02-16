@@ -22,5 +22,5 @@ Web Application can be viewed in localhost:3000
 
 
 
-## Sample Screenshot of the web applciation
+## Sample Screenshot of the web application
 ![Alt text](/./screenshot.png?raw=true)
